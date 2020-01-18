@@ -1,0 +1,8 @@
+{
+  "name": "fin",
+  "file": "/home/vagrant/myspace/reservoird/fin/test.txt",
+  "follow": true,
+  "poll": "10s",
+  "sleepDuration": "1ms",
+  "timestamp": true
+}
